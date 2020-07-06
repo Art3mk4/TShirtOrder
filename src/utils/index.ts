@@ -1,0 +1,1 @@
+export const generateId = (): string => `${(new Date()).getTime()}`;

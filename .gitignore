@@ -1,0 +1,11 @@
+dist
+node_modules
+test-results
+
+# Гененерируемые файлы .d.ts для css
+src/**/*.css.d.ts
+src/**/*.css.js*
+src/**/*.css.map*
+src/**/.module.css
+
+.idea
